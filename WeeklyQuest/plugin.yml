@@ -1,0 +1,9 @@
+author: ByToByX
+version: 1.5
+name: LuminaWeeklyQuest
+main: fr.herllox.hweeklyquest.Main
+commands:
+  weeklyquest:
+    description: Open the plugin menu.
+    aliases: [wq]
+    permission: weeklyquest.use

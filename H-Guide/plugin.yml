@@ -1,0 +1,8 @@
+author: Herllox
+version: 1.0
+name: H-Guide
+main: fr.herllox.hguide.Main
+api-version: 1.13
+commands:
+  guide:
+    description: Ouverture du menu de guide

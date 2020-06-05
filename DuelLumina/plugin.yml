@@ -1,0 +1,7 @@
+name: DuelLumina
+version: 0.0.1
+author: MegaCretin
+main: fr.megacretin.duel.Main
+commands:
+ duel:
+   description: Permet de gerer les combats sur le serveur

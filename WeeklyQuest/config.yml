@@ -1,0 +1,62 @@
+#  CONFIGURATION DES MESSAGES ET DES TITRES MENU  #
+Menu:
+  Name: "&e&lWeekly&d&lQuest"
+  Confirmation: "&6&lQUETES &8&l» &7Confirmation"
+  Beacon: "Top des Joueurs"
+Messages:
+  Prefix: "&b&lLumina &7&l>> "
+  AddBDD: "§aTu as ajouté &e%oldnumber% &aà ta cagnotte pour %money%, tu en as maintenant &e%newnumber%."
+  NothingInv: "&cTu n'as rien dans ton inventaire."
+  NeedItem: "&cTu dois avoir l'item requis dans ton inventaire."
+#  ZONE ITEMS DE LA SEMAINE  #
+WeekItems: CACTUS
+#  ZONE TOUCHE PAS SI TU SAIS PAS  #
+Winner:
+  One:
+    player:
+    recup:
+  Two:
+    player:
+    recup:
+  Three:
+    player:
+    recup:
+  Four:
+    player:
+    recup:
+  Five:
+    player:
+    recup:
+#  ZONE DE CONFIGURATION DES CADEAUX  #
+Reward:
+  One:
+    Message: "0000"
+    Commands: true
+    Command1: "give %player% minecraft:dragon_egg 1"
+    Command2: "give %player% minecraft:dragon_egg 1"
+    Command3: "give %player% minecraft:dragon_egg 1"
+    Money: 50000
+  Two:
+    Message: "0000"
+    Commands: true
+    Command1: "give %player% minecraft:beacon 1"
+    Command2: "give %player% minecraft:dragon_egg 1"
+    Money: 50000
+  Three:
+    Message: "0000"
+    Commands: true
+    Command1: "give %player% minecraft:diamond_ore 32"
+    Command2: "give %player% minecraft:dragon_egg 1"
+    Money: 50000
+  Four:
+    Message: "0000"
+    Commands: true
+    Command1: "give %player% minecraft:diamond_ore 16"
+    Command2: "give %player% minecraft:dragon_egg 1"
+    Money: 50000
+  Five:
+    Message: "0000"
+    Commands: true
+    Command1: "give %player% minecraft:diamond_ore 8"
+    Command2: "give %player% minecraft:dragon_egg 1"
+    Money: 50000

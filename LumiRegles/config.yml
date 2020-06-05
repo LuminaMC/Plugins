@@ -1,0 +1,330 @@
+Title: "§6§lINFO §7§l» §7Règlement"
+
+Main:
+  Size: 27
+  Items:
+    Item1:
+      Material: "BOOK"
+      Data: 0
+      Position: 12
+      Name: "§f§lDiscussion"
+      Categorie: "Discussion"
+    Item2:
+      Material: "BOOK"
+      Data: 0
+      Position: 14
+      Name: "§f§lMods et triche"
+      Categorie: "ModsTriche"
+    Item3:
+      Material: "BOOK"
+      Data: 0
+      Position: 16
+      Name: "§f§lAutres"
+      Categorie: "Autres"
+Categories:
+  Discussion:
+    Size: 54
+    Items:
+      Item1:
+        Material: "PAPER"
+        Data: 0
+        Position: 11
+        Name: "§f§lSpam"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Avertissement"
+        - ""
+        - "§6§lRécidive :"
+        - "§7Mute de 30m à 24h"
+        - "§7selon la gravité"
+        - ""
+        - "§c§lMulti-récidive :"
+        - "§7Ban de 1j minimum"
+      Item2:
+        Material: "PAPER"
+        Data: 0
+        Position: 13
+        Name: "§f§lFlood"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Avertissement"
+        - ""
+        - "§6§lRécidive :"
+        - "§7Mute de 30m à 24h"
+        - "§7selon la gravité"
+        - ""
+        - "§c§lMulti-récidive :"
+        - "§7Ban de 1j minimum"
+      Item3:
+        Material: "PAPER"
+        Data: 0
+        Position: 21
+        Name: "§f§lAbus de majuscules"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Avertissement"
+        - ""
+        - "§6§lRécidive :"
+        - "§7Mute de 30m à 24h"
+        - "§7selon la gravité"
+        - ""
+        - "§c§lMulti-récidive :"
+        - "§7Ban de 1j minimum"
+      Item4:
+        Material: "PAPER"
+        Data: 0
+        Position: 29
+        Name: "§f§lProvocation"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Avertissement"
+        - ""
+        - "§6§lRécidive :"
+        - "§7Mute de 30m à 24h"
+        - "§7selon la gravité"
+        - ""
+        - "§c§lMulti-récidive :"
+        - "§7Ban de 1j minimum"
+      Item5:
+        Material: "PAPER"
+        Data: 0
+        Position: 31
+        Name: "§f§lInsultes"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Avertissement"
+        - ""
+        - "§6§lRécidive :"
+        - "§7Mute de 2h à 24h"
+        - "§7selon la gravité"
+        - ""
+        - "§c§lMulti-récidive :"
+        - "§7Ban de 1j minimum"
+      Item6:
+        Material: "PAPER"
+        Data: 0
+        Position: 15
+        Name: "§f§lMenaces"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Appréciation au cas par cas,"
+        - "§7peut aller d'un simple"
+        - "§7avertissement à un ban"
+        - "§7de plusieurs jours"
+      Item7:
+        Material: "PAPER"
+        Data: 0
+        Position: 17
+        Name: "§f§lPublicité"
+        Lore:
+        - "§a§lInvolontaire :"
+        - "§7Avertissement"
+        - ""
+        - "§c§lVolontaire :"
+        - "§7Ban de 30 jours à définitif"
+      Item8:
+        Material: "PAPER"
+        Data: 0
+        Position: 25
+        Name: "§f§lDivulgation d'informations personnelles"
+        Lore:
+        - "§a§lSans mauvaises intentions :"
+        - "§7Avertissement"
+        - ""
+        - "§c§lAvec mauvaises intentions :"
+        - "§7Mute d'une semaine voire bannissement"
+        - "§7d'une semaine selon la gravité"
+      Item9:
+        Material: "PAPER"
+        Data: 0
+        Position: 33
+        Name: "§f§lMendicité"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Avertissement"
+        - ""
+        - "§6§lRécidive :"
+        - "§7Mute de 2h"
+        - ""
+        - "§c§lMulti-récidive :"
+        - "§7Bannissement de 24h"
+      Item10:
+        Material: "PAPER"
+        Data: 0
+        Position: 35
+        Name: "§f§lPseudo inapproprié"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Éjection avec demande"
+        - "§7de changement de pseudo"
+        - ""
+        - "§c§lSi pseudo non modifié :"
+        - "§7Bannissement de 1 semaine"
+        - "§7(une semaine d'attente pour"
+        - "§7pouvoir rechanger son pseudo"
+        - "§7sur le site de Minecraft)"
+      Avertissement:
+        Material: "BOOK"
+        Data: 0
+        Position: 43
+        Name: "§c§lInformations"
+        Lore:
+        - "§7En fonction de la gravité d'une"
+        - "§7infraction, la modération et"
+        - "§7l'administration de Lumina se"
+        - "§7réservent le droit d'alourdir"
+        - "§7les sanctions quand cela est jugé"
+        - "§7nécessaire. Il vous est donc possible"
+        - "§7de recevoir une sanction censée être"
+        - "§7donnée pour un cas de ''multi-récidives''"
+        - "§7(voire une sanction supérieure !) alors qu'il"
+        - "§7s'agit de votre 1ère infraction ;)"
+        - "§7Ne jouez pas avec le feu !"
+      Flèche:
+        Material: "ARROW"
+        Data: 0
+        Position: 39
+        Name: "§7§lRetour"
+  ModsTriche:
+    Size: 36
+    Items:
+      Item1:
+        Material: "PAPER"
+        Data: 0
+        Position: 11
+        Name: "§f§lMulti-compte"
+        Lore:
+        - "§a§lAutorisé si :"
+        - "§7Les comptes sont activement utilisés"
+        - "§7par des personnes différentes"
+        - ""
+        - "§6§lSinon :"
+        - "§7Bannissement du deuxième compte"
+        - ""
+        - "§c§lRécidive :"
+        - "§7Bannissement du compte principal"
+        - "§7pendant une semaine"
+      Item2:
+        Material: "PAPER"
+        Data: 0
+        Position: 13
+        Name: "§f§lAntiAFK"
+        Lore:
+        - "§a§lAFK simple :"
+        - "§7Éjection par le plugin d'anti AFK"
+        - "§7Bannissement de 24h en cas de kicks"
+        - "§7trop fréquents : la limite d'AFK n'est"
+        - "§7pas là pour être exploitée. L'AFK est"
+        - "§7INTERDIT. Pensez à vous déconnecter !"
+        - ""
+        - "§6§lContournement du"
+        - "§6§lsystème d'anti AFK :"
+        - "§7Bannissement de 24h"
+        - "§c§lRécidives :"
+        - "§7Bannissement de 1 semaine à définitif"
+      Item3:
+        Material: "PAPER"
+        Data: 0
+        Position: 15
+        Name: "§f§lMods"
+        Lore:
+        - "§a§lMods ne donnant aucun avantage"
+        - "§a§lpar rapport aux autres joueurs :"
+        - "§7Autorisés (exemples : Optifine,"
+        - "§7Schematica sans printer, ...)"
+        - ""
+        - "§c§lAutres mods :"
+        - "§7Bannissement de 30j à définitif"
+      Item4:
+        Material: "PAPER"
+        Data: 0
+        Position: 17
+        Name: "§f§lExploitation de glitchs"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Bannissement de 1 mois à"
+        - "§7définitif selon la gravité."
+      Avertissement:
+        Material: "BOOK"
+        Data: 0
+        Position: 25
+        Name: "§c§lInformation"
+        Lore:
+        - "§7En fonction de la gravité d'une"
+        - "§7infraction, la modération et"
+        - "§7l'administration de Lumina se"
+        - "§7réservent le droit d'alourdir"
+        - "§7les sanctions quand cela est jugé"
+        - "§7nécessaire. Il vous est donc possible"
+        - "§7de recevoir une sanction censée être"
+        - "§7donnée pour un cas de ''multi-récidives''"
+        - "§7(voire une sanction supérieure !) alors qu'il"
+        - "§7s'agit de votre 1ère infraction ;)"
+        - "§7Ne jouez pas avec le feu !"
+      Flèche:
+        Material: "ARROW"
+        Data: 0
+        Position: 21
+        Name: "§7§lRetour"
+  Autres:
+    Size: 36
+    Items:
+      Item1:
+        Material: "PAPER"
+        Data: 0
+        Position: 12
+        Name: "§f§lConstructions inappopriées"
+        Lore:
+        - "§7Exemples : Croix gammées, phallus, ..."
+        - ""
+        - "§a§lSanction :"
+        - "§7Demande de destruction"
+        - ""
+        - "§c§lRécidive :"
+        - "§7Bannissement de 2h à 24h"
+      Item2:
+        Material: "PAPER"
+        Data: 0
+        Position: 14
+        Name: "§f§lArnaques"
+        Lore:
+        - "§a§lSanction :"
+        - "§7Bannissement de 24h"
+        - ""
+        - "§c§lRécidive :"
+        - "§7Bannissement une semaine"
+      Item3:
+        Material: "PAPER"
+        Data: 0
+        Position: 16
+        Name: "§f§lTentative de vente d'objets"
+        Lore:
+        - "§f§len jeu contre argent réel"
+        - ""
+        - "§a§lSanction :"
+        - "§7Avertissement"
+        - ""
+        - "§c§lRécidive :"
+        - "§7Bannissement définitif"
+      Avertissement:
+        Material: "BOOK"
+        Data: 0
+        Position: 25
+        Name: "§c§lInformation"
+        Lore:
+        - "§7En fonction de la gravité d'une"
+        - "§7infraction, la modération et"
+        - "§7l'administration de Lumina se"
+        - "§7réservent le droit d'alourdir"
+        - "§7les sanctions quand cela est jugé"
+        - "§7nécessaire. Il vous est donc possible"
+        - "§7de recevoir une sanction censée être"
+        - "§7donnée pour un cas de ''multi-récidives''"
+        - "§7(voire une sanction supérieure !) alors qu'il"
+        - "§7s'agit de votre 1ère infraction ;)"
+        - "§7Ne jouez pas avec le feu !"
+      Flèche:
+        Material: "ARROW"
+        Data: 0
+        Position: 21
+        Name: "§7§lRetour"

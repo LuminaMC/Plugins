@@ -1,0 +1,8 @@
+author: Herllox
+version: 1.0
+name: H-Staff
+main: fr.herllox.hstaff.Main
+api-version: 1.13
+commands:
+  mod:
+    permission: mod.use

@@ -1,0 +1,6 @@
+main: fr.thomb1997.lumiregles.Main
+author: thomb1997
+version: 1.0
+name: LumiRegles
+commands:
+  reglement:

@@ -1,0 +1,17 @@
+name: EconomyLumina
+main: net.bytobyx.economylumina.Main
+version: 1.0
+author: ByToByX
+depend: [Vault]
+api-version: 1.13
+load: startup
+
+commands:
+  money:
+    usage: /money
+    description: Commande permettant de gérer les Lumines
+  baltop:
+    usage: /baltop
+    description: Commande permettant de voir le top 10 des joueurs les plus riches
+  pay:
+    description: Commande permettant de donner de l'argent à d'autre joueur
